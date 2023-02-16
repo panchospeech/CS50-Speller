@@ -1,2 +1,5 @@
 # CS50-Speller
-Harvard CS50 Course (2022) // Programming Language: C // Problem Set 5 // Dictionaries and Data Structure.
+Harvard CS50 Course (2022) <br/>
+Programming Language: C <br/>
+Problem Set 5  <br/>
+<b>Dictionaries and Data Structure.</b>
